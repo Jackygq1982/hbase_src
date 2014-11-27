@@ -1,0 +1,109 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:54:25-05:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 72
+
+Apache Licensed: 72
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/hbase/hbase-0.98.8/hbase-it/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestManyRegions.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestIngestWithEncryption.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestIngest.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestsDriver.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestIngestWithTags.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/monkies/ChaosMonkey.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/monkies/CalmChaosMonkey.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/monkies/PolicyBasedChaosMonkey.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/policies/PeriodicRandomActionPolicy.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/policies/DoActionsOncePolicy.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/policies/CompositeSequentialPolicy.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/policies/PeriodicPolicy.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/policies/TwoConcurrentActionPolicy.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/policies/Policy.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/factories/MonkeyConstants.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/factories/SlowDeterministicMonkeyFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/factories/CalmMonkeyFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/factories/NoKillMonkeyFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/factories/MonkeyFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/factories/ServerKillingMonkeyFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/factories/UnbalanceMonkeyFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/factories/StressAssignmentManagerMonkeyFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/ChangeEncodingAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RollingBatchRestartRsAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RestartRandomRsExceptMetaAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/SplitRandomRegionOfTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/DumpClusterStatusAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/ChangeBloomFilterAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/ForceBalancerAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/ChangeCompressionAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RestartActiveMasterAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RollingBatchRestartRsExceptMetaAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/MoveRegionsOfTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RestartRandomRsAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/SnapshotTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/FlushTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/Action.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RemoveColumnAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/MoveRandomRegionOfTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/FlushRandomRegionOfTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/CompactTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/UnbalanceKillAndRebalanceAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/MergeRandomAdjacentRegionsOfTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/AddColumnAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RestartActionBaseAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RestartRsHoldingTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/ChangeVersionsAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/RestartRsHoldingMetaAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/UnbalanceRegionsAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/CompactRandomRegionOfTableAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/chaos/actions/BatchRestartRsAction.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestIngestStripeCompactions.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestBase.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/StripeCompactionsPerformanceEvaluation.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestLazyCfLoading.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/trace/IntegrationTestSendTraceRequests.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/mapreduce/IntegrationTestTableMapReduceUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/mapreduce/IntegrationTestBulkLoad.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/mapreduce/IntegrationTestTableSnapshotInputFormat.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/mapreduce/IntegrationTestImportTsv.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/DistributedHBaseCluster.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/HBaseClusterManager.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/ClusterManager.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestIngestWithACL.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/test/IntegrationTestBigLinkedList.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/test/IntegrationTestWithCellVisibilityLoadAndVerify.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/test/IntegrationTestLoadAndVerify.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/test/IntegrationTestBigLinkedListWithVisibility.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestingUtility.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/mttr/IntegrationTestMTTR.java
+  AL    /home/hbase/hbase-0.98.8/hbase-it/src/test/java/org/apache/hadoop/hbase/IntegrationTestIngestWithVisibilityLabels.java
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

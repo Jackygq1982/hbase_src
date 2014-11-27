@@ -1,0 +1,48 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:32:43-05:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 11
+
+Apache Licensed: 11
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/test/java/org/apache/hadoop/hbase/SmallTests.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/test/java/org/apache/hadoop/hbase/MediumTests.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/test/java/org/apache/hadoop/hbase/LargeTests.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/test/java/org/apache/hadoop/hbase/IntegrationTests.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/main/java/org/apache/hadoop/hbase/classification/tools/IncludePublicAnnotationsStandardDoclet.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/main/java/org/apache/hadoop/hbase/classification/tools/RootDocProcessor.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/main/java/org/apache/hadoop/hbase/classification/tools/StabilityOptions.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/main/java/org/apache/hadoop/hbase/classification/tools/ExcludePrivateAnnotationsStandardDoclet.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/main/java/org/apache/hadoop/hbase/classification/InterfaceAudience.java
+  AL    /home/hbase/hbase-0.98.8/hbase-annotations/src/main/java/org/apache/hadoop/hbase/classification/InterfaceStability.java
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

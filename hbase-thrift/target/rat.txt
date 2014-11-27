@@ -1,0 +1,73 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:44:26-05:00
+Notes: 0
+Binaries: 6
+Archives: 0
+Standards: 30
+
+Apache Licensed: 30
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/test/java/org/apache/hadoop/hbase/thrift/TestThriftServerCmdLine.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/test/java/org/apache/hadoop/hbase/thrift/TestCallQueue.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/test/java/org/apache/hadoop/hbase/thrift/TestThriftServer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/test/java/org/apache/hadoop/hbase/thrift2/TestThriftHBaseServiceHandler.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/test/java/org/apache/hadoop/hbase/thrift2/TestThriftHBaseServiceHandlerWithLabels.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/ThriftServer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/TBoundedThreadPoolServer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/IncrementCoalescer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/IncrementCoalescerMBean.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/ThriftUtilities.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/ThriftServerRunner.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/CallQueue.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/HThreadedSelectorServerArgs.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/ThriftMetrics.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift/HbaseHandlerMetricsProxy.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift2/ThriftServer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift2/package.html
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift2/ThriftUtilities.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/java/org/apache/hadoop/hbase/thrift2/ThriftHBaseServiceHandler.java
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/thrift/index.html
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/thrift/thrift.jsp
+  B     /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/fonts/glyphicons-halflings-regular.woff
+  B     /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/fonts/glyphicons-halflings-regular.ttf
+  B     /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/fonts/glyphicons-halflings-regular.eot
+  B     /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/hbase_logo_med.gif
+  B     /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/hbase_logo_small.png
+  B     /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/hbase_logo.png
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/css/hbase.css
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/css/bootstrap.min.css
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/css/bootstrap.css
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/js/bootstrap.min.js
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/js/bootstrap.js
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/hbase-webapps/static/js/tab.js
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/org/apache/hadoop/hbase/thrift/Hbase.thrift
+  AL    /home/hbase/hbase-0.98.8/hbase-thrift/src/main/resources/org/apache/hadoop/hbase/thrift2/hbase.thrift
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

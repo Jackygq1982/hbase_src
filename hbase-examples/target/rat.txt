@@ -1,0 +1,63 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:54:30-05:00
+Notes: 1
+Binaries: 0
+Archives: 0
+Standards: 25
+
+Apache Licensed: 25
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  N     /home/hbase/hbase-0.98.8/hbase-examples/README.txt
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/test/java/org/apache/hadoop/hbase/mapreduce/TestMapReduceExamples.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/test/java/org/apache/hadoop/hbase/types/TestPBCell.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/test/java/org/apache/hadoop/hbase/coprocessor/example/TestRowCountEndpoint.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/test/java/org/apache/hadoop/hbase/coprocessor/example/TestZooKeeperScanPolicyObserver.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/test/java/org/apache/hadoop/hbase/coprocessor/example/TestBulkDeleteProtocol.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/java/org/apache/hadoop/hbase/thrift/DemoClient.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/java/org/apache/hadoop/hbase/mapreduce/IndexBuilder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/java/org/apache/hadoop/hbase/mapreduce/SampleUploader.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/java/org/apache/hadoop/hbase/types/PBCell.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/java/org/apache/hadoop/hbase/thrift2/DemoClient.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example/BulkDeleteEndpoint.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example/ZooKeeperScanPolicyObserver.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/java/org/apache/hadoop/hbase/coprocessor/example/RowCountEndpoint.java
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/ruby/DemoClient.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/ruby/index-builder-setup.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/protobuf/Examples.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/protobuf/BulkDelete.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/python/thrift1/DemoClient.py
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/python/thrift2/DemoClient.py
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/cpp/Makefile
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/cpp/DemoClient.cpp
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/perl/DemoClient.pl
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/sh/healthcheck/healthcheck.sh
+  AL    /home/hbase/hbase-0.98.8/hbase-examples/src/main/php/DemoClient.php
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

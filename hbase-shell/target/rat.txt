@@ -1,0 +1,138 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:54:19-05:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 101
+
+Apache Licensed: 101
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/java/org/apache/hadoop/hbase/client/TestShell.java
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/hbase/hbase_test.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/hbase/security_admin_test.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/hbase/visibility_labels_admin_test.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/hbase/admin_test.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/hbase/table_test.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/shell/commands_test.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/shell/formatter_test.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/shell/shell_test.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/test_helper.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/test/ruby/tests_runner.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/hbase.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/hbase/admin.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/hbase/table.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/hbase/visibility_labels.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/hbase/hbase.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/hbase/security.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/hbase/replication_admin.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/irb/hirb.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/formatter.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/alter_namespace.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/list_namespace.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/assign.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/scan.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/remove_peer.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/enable.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/list_peers.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/user_permission.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/create_namespace.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/compact_rs.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/delete_snapshot.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/drop_namespace.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/merge_region.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/is_disabled.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/describe_namespace.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/alter_status.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/catalogjanitor_enabled.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/get.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/drop_all.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/balancer.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/trace.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/truncate_preserve.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/get_table.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/balance_switch.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/set_visibility.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/alter.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/is_enabled.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/delete.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/clear_auths.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/disable.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/incr.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/disable_all.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/disable_peer.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/clone_snapshot.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/drop.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/show_filters.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/flush.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/close_region.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/revoke.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/whoami.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/major_compact.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/version.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/restore_snapshot.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/list.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/alter_async.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/zk_dump.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/hlog_roll.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/put.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/show_peer_tableCFs.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/set_auths.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/enable_all.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/truncate.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/list_namespace_tables.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/catalogjanitor_switch.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/unassign.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/append.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/grant.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/catalogjanitor_run.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/rename_snapshot.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/compact.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/snapshot.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/status.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/get_auths.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/list_snapshots.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/create.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/count.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/split.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/move.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/enable_peer.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/table_help.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/set_peer_tableCFs.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/add_peer.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/describe.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/get_counter.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/exists.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/deleteall.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/add_labels.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell/commands/list_replicated_tables.rb
+  AL    /home/hbase/hbase-0.98.8/hbase-shell/src/main/ruby/shell.rb
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

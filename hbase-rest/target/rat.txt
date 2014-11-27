@@ -1,0 +1,146 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:44:32-05:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 109
+
+Apache Licensed: 109
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestStatusResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/client/TestRemoteHTableRetries.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/client/TestRemoteAdminRetries.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/client/TestRemoteTable.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/RowResourceBase.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/DummyFilter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/HBaseRESTTestingUtility.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestGzipFilter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestVersionResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestScannerResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestTableScan.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/PerformanceEvaluation.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestScannersWithFilters.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestDeleteRow.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestScannersWithLabels.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestResourceFilter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestMultiRowResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestGZIPResponseWrapper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestTableResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestGetAndPutResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestRowModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestTableSchemaModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestCellSetModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestTableRegionModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestTableInfoModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestStorageClusterStatusModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestScannerModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestModelBase.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestVersionModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestStorageClusterVersionModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestCellModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestTableListModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/model/TestColumnSchemaModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/java/org/apache/hadoop/hbase/rest/TestSchemaResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/resources/hbase-site.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/resources/hdfs-site.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/resources/log4j.properties
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/resources/mapred-site.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/resources/mapred-queues.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/test/resources/zoo.cfg
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/client/Response.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/client/Client.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/client/Cluster.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/client/RemoteAdmin.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/client/RemoteHTable.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/provider/consumer/ProtobufMessageBodyConsumer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/provider/producer/PlainTextMessageBodyProducer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/provider/producer/ProtobufMessageBodyProducer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/provider/JacksonProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/provider/JAXBContextResolver.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/Constants.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/TableScanResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/VersionResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/MetricsREST.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ProtobufMessageHandler.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/StorageClusterVersionResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/RowSpec.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ExistsResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/SchemaResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ScannerInstanceResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/StorageClusterStatusResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ResourceConfig.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/RowResultGenerator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/RegionsResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/RESTServletContainer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/package.html
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ScannerResultGenerator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ResultGenerator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/MultiRowResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ResourceBase.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/TableResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ScannerResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/RESTServlet.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/filter/GZIPResponseStream.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/filter/GZIPResponseWrapper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/filter/GzipFilter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/filter/GZIPRequestWrapper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/filter/AuthFilter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/filter/GZIPRequestStream.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/ProtobufStreamingUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/TableInfoModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/TableListModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/TableModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/TableSchemaModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/StorageClusterVersionModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/TableRegionModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/CellSetModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/CellModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/VersionModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/ColumnSchemaModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/RowModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/ScannerModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/model/StorageClusterStatusModel.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/RootResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/RowResource.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/java/org/apache/hadoop/hbase/rest/RESTServer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/hbase-webapps/rest/index.html
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/hbase-webapps/rest/rest.jsp
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/XMLSchema.xsd
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/StorageClusterStatusMessage.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/TableInfoMessage.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/TableListMessage.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/CellMessage.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/TableSchemaMessage.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/VersionMessage.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/ColumnSchemaMessage.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/ScannerMessage.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/org/apache/hadoop/hbase/rest/protobuf/CellSetMessage.proto
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

@@ -1,0 +1,198 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:32:40-05:00
+Notes: 3
+Binaries: 23
+Archives: 0
+Standards: 135
+
+Apache Licensed: 135
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  N     LICENSE.txt
+  AL    dev-support/hbase_jdiff_template.xml
+  AL    dev-support/test-patch.properties
+  AL    dev-support/jenkins-tools/pom.xml
+  AL    dev-support/jenkins-tools/README.md
+  AL    dev-support/jenkins-tools/buildstats/pom.xml
+  AL    dev-support/jenkins-tools/buildstats/src/main/java/org/apache/hadoop/hbase/devtools/buildstats/TestCaseResult.java
+  AL    dev-support/jenkins-tools/buildstats/src/main/java/org/apache/hadoop/hbase/devtools/buildstats/TestSuite.java
+  AL    dev-support/jenkins-tools/buildstats/src/main/java/org/apache/hadoop/hbase/devtools/buildstats/BuildResultWithTestCaseDetails.java
+  AL    dev-support/jenkins-tools/buildstats/src/main/java/org/apache/hadoop/hbase/devtools/buildstats/HistoryReport.java
+  AL    dev-support/jenkins-tools/buildstats/src/main/java/org/apache/hadoop/hbase/devtools/buildstats/TestResultHistory.java
+  AL    dev-support/make_rc.sh
+  AL    dev-support/jdiffHBasePublicAPI_common.sh
+  AL    dev-support/findHangingTest.sh
+  AL    dev-support/test-patch.sh
+  AL    dev-support/test-util.sh
+  AL    dev-support/HBase Code Template.xml
+  AL    dev-support/hbase_jdiff_afterSingularityTemplate.xml
+  AL    dev-support/hbasetests.sh
+  AL    dev-support/smart-apply-patch.sh
+  AL    dev-support/findbugs-exclude.xml
+  AL    dev-support/hbase_docker/Dockerfile
+  AL    dev-support/hbase_eclipse_formatter.xml
+  AL    dev-support/hbase_docker.sh
+  AL    dev-support/generate-hadoopX-poms.sh
+  AL    dev-support/hbase_jdiff_acrossSingularityTemplate.xml
+  AL    dev-support/jdiffHBasePublicAPI.sh
+  N     README.txt
+  AL    pom.xml
+  N     NOTICE.txt
+  AL    hbase-hadoop1-compat/pom.xml
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/thrift/TestThriftServerMetricsSourceFactoryImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/regionserver/wal/TestMetricsWALSourceImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/regionserver/TestMetricsRegionSourceImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/rest/TestRESTMetricsSourceImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/HadoopShimsImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/test/MetricsAssertHelperImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver/TestReplicationMetricsSourceImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl.java
+  AL    hbase-hadoop1-compat/src/test/java/org/apache/hadoop/hbase/master/TestMetricsMasterSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/thrift/MetricsThriftServerSourceFactoryImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/thrift/MetricsThriftServerSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionServerSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver/wal/MetricsEditsReplaySourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver/wal/MetricsWALSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionServerSourceFactoryImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionAggregateSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/mapreduce/JobUtil.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/rest/MetricsRESTSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver/MetricsReplicationSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/ipc/MetricsHBaseServerSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/ipc/MetricsHBaseServerSourceFactoryImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/metrics/MBeanSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/metrics/BaseSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsSnapshotSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsMasterFilesystemSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsMasterSourceFactoryImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master/balancer/MetricsBalancerSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsMasterSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsAssignmentManagerSourceImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/lib/MetricMutableQuantiles.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/lib/DynamicMetricsRegistry.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/lib/MetricMutableHistogram.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/lib/MetricsExecutorImpl.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/util/MetricSampleQuantiles.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/util/MetricQuantile.java
+  AL    hbase-hadoop1-compat/src/main/java/org/apache/hadoop/metrics2/impl/JmxCacheBuster.java
+  AL    bin/hirb.rb
+  AL    bin/hbase-daemon.sh
+  AL    bin/hbase-daemons.sh
+  AL    bin/hbase-jruby
+  AL    bin/get-active-master.rb
+  AL    bin/hbase
+  AL    bin/stop-hbase.sh
+  AL    bin/local-master-backup.sh
+  AL    bin/hbase-config.cmd
+  AL    bin/thread-pool.rb
+  AL    bin/stop-hbase.cmd
+  AL    bin/hbase-cleanup.sh
+  AL    bin/start-hbase.sh
+  AL    bin/region_status.rb
+  AL    bin/rolling-restart.sh
+  AL    bin/master-backup.sh
+  AL    bin/local-regionservers.sh
+  AL    bin/hbase.cmd
+  AL    bin/start-hbase.cmd
+  AL    bin/regionservers.sh
+  AL    bin/graceful_stop.sh
+  AL    bin/region_mover.rb
+  AL    bin/hbase-config.sh
+  AL    bin/test/process_based_cluster.sh
+  AL    bin/hbase-common.sh
+  AL    bin/zookeepers.sh
+  AL    bin/replication/copy_tables_desc.rb
+  AL    bin/shutdown_regionserver.rb
+  AL    src/main/site/xdoc/export_control.xml
+  AL    src/main/site/xdoc/replication.xml
+  AL    src/main/site/xdoc/bulk-loads.xml
+  AL    src/main/site/xdoc/old_news.xml
+  AL    src/main/site/xdoc/resources.xml
+  AL    src/main/site/xdoc/cygwin.xml
+  AL    src/main/site/xdoc/metrics.xml
+  AL    src/main/site/xdoc/index.xml
+  AL    src/main/site/xdoc/pseudo-distributed.xml
+  AL    src/main/site/xdoc/sponsors.xml
+  AL    src/main/site/xdoc/acid-semantics.xml
+  AL    src/main/site/site.xml
+  AL    src/main/site/resources/doap_Hbase.rdf
+  B     src/main/site/resources/images/bc_stats.png
+  B     src/main/site/resources/images/replication_overview.png
+  B     src/main/site/resources/images/data_block_no_encoding.png
+  B     src/main/site/resources/images/big_h_logo.png
+  B     src/main/site/resources/images/data_block_prefix_encoding.png
+  B     src/main/site/resources/images/jumping-orca_rotated_12percent.png
+  B     src/main/site/resources/images/bc_config.png
+  B     src/main/site/resources/images/data_block_diff_encoding.png
+  B     src/main/site/resources/images/hadoop-logo.jpg
+  B     src/main/site/resources/images/timeline_consistency.png
+  B     src/main/site/resources/images/coprocessor_stats.png
+  B     src/main/site/resources/images/hbase_logo.png
+  B     src/main/site/resources/images/jumping-orca_rotated.xcf
+  B     src/main/site/resources/images/region_states.png
+  B     src/main/site/resources/images/architecture.gif
+  B     src/main/site/resources/images/hfile.png
+  B     src/main/site/resources/images/favicon.ico
+  B     src/main/site/resources/images/jumping-orca_rotated_25percent.png
+  B     src/main/site/resources/images/bc_basic.png
+  B     src/main/site/resources/images/bc_l2_buckets.png
+  B     src/main/site/resources/images/hfilev2.png
+  B     src/main/site/resources/images/bc_l1.png
+  B     src/main/site/resources/images/jumping-orca_rotated.png
+  AL    src/main/site/resources/css/site.css
+  AL    src/main/xslt/configuration_to_docbook_section.xsl
+  AL    src/main/docbkx/book.xml
+  AL    src/main/docbkx/schema_design.xml
+  AL    src/main/docbkx/external_apis.xml
+  AL    src/main/docbkx/preface.xml
+  AL    src/main/docbkx/ops_mgt.xml
+  AL    src/main/docbkx/configuration.xml
+  AL    src/main/docbkx/performance.xml
+  AL    src/main/docbkx/appendix_acl_matrix.xml
+  AL    src/main/docbkx/tracing.xml
+  AL    src/main/docbkx/zookeeper.xml
+  AL    src/main/docbkx/getting_started.xml
+  AL    src/main/docbkx/appendix_hfile_format.xml
+  AL    src/main/docbkx/upgrading.xml
+  AL    src/main/docbkx/community.xml
+  AL    src/main/docbkx/developer.xml
+  AL    src/main/docbkx/customization.xsl
+  AL    src/main/docbkx/cp.xml
+  AL    src/main/docbkx/case_studies.xml
+  AL    src/main/docbkx/appendix_contributing_to_documentation.xml
+  AL    src/main/docbkx/shell.xml
+  AL    src/main/docbkx/hbase_apis.xml
+  AL    src/main/docbkx/rpc.xml
+  AL    src/main/docbkx/security.xml
+  AL    src/main/docbkx/troubleshooting.xml
+  AL    src/main/docbkx/thrift_filter_language.xml
+  AL    src/main/docbkx/unit_testing.xml
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

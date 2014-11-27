@@ -1,0 +1,252 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:37:56-05:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 215
+
+Apache Licensed: 215
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/hbase/hbase-0.98.8/hbase-common/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/saveVersion.sh
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/HBaseCommonTestingUtility.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/ResourceCheckerJUnitListener.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/TestHBaseConfiguration.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/ClassFinder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/io/TestTagCompressionContext.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/io/util/TestLRUDictionary.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/io/crypto/KeyProviderForTesting.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/io/crypto/TestKeyStoreKeyProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/io/crypto/aes/TestAES.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/io/crypto/TestEncryption.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/io/crypto/TestCipherProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/io/crypto/TestKeyProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/TestKeyValue.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/TestCellUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestDrainBarrier.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestCoprocessorClassLoader.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestEnvironmentEdgeManager.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestShowProperties.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestOrder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestPositionedByteRange.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestLoadTestKVGenerator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestDynamicClassLoader.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestBase64.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestThreads.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestConcatenatedLists.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestBytes.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/ClassLoaderTestHelper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/EnvironmentEdgeManagerTestHelper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestSimpleByteRange.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestKeyLocker.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/util/TestOrderedBytes.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/ResourceChecker.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/Waiter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/ClassTestFinder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/codec/TestKeyValueCodec.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/codec/TestCellCodec.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/codec/TestCellCodecWithTags.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/codec/TestKeyValueCodecWithTags.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/TestClassFinder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestTerminatedWrapper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestFixedLengthWrapper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestStructNullExtension.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestUnion2.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestStruct.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestOrderedString.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestRawString.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestOrderedBlob.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/types/TestOrderedBlobVar.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/java/org/apache/hadoop/hbase/TestCompoundConfiguration.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/test/resources/log4j.properties
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/MetaMutationAnnotation.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/HConstants.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/AuthUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/NamespaceDescriptor.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/KeyValue.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/CellScanner.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/security/UserProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/security/User.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/Stoppable.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/HBaseConfiguration.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/CellComparator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/Tag.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/HBaseIOException.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/CompoundConfiguration.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/TagType.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/HeapSize.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/ImmutableBytesWritable.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/SizedCellScanner.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress/Compression.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/compress/ReusableStreamGzipCodec.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/hfile/BlockType.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/hfile/HFileContext.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/hfile/HFileContextBuilder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/ByteBufferOutputStream.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/CellOutputStream.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/TagCompressionContext.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/util/Dictionary.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/util/LRUDictionary.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/util/StreamUtils.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/DefaultCipherProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/Encryption.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/Context.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/Encryptor.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/CipherProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/aes/AESDecryptor.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/aes/AESEncryptor.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/aes/AES.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/Cipher.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/KeyProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/KeyStoreKeyProvider.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/crypto/Decryptor.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/hadoopbackport/ThrottledInputStream.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/LimitInputStream.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/TimeRange.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/FastDiffDeltaEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/DataBlockEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/HFileBlockDefaultEncodingContext.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/HFileBlockDefaultDecodingContext.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/EncodedDataBlock.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/EncoderBufferTooSmallException.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/CopyKeyDataBlockEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/HFileBlockEncodingContext.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/PrefixKeyDeltaEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/HFileBlockDecodingContext.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/CompressionState.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/DiffKeyDeltaEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/DataBlockEncoding.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/io/encoding/BufferedDataBlockEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/KeyValueUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/KeyValueTestUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/Cell.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/TableName.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/SimpleByteRange.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ConcatenatedLists.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/CoprocessorClassLoader.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/OrderedBytes.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ConcurrentIndex.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/EnvironmentEdgeManager.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ChecksumType.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Bytes.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/SimplePositionedByteRange.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ChecksumFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Classes.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ClassSize.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/VersionInfo.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/MurmurHash.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Hash.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Order.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/KeyLocker.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/JVM.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Methods.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Base64.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/RetryCounterFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/PairOfSameType.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/MurmurHash3.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Addressing.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Threads.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ByteBufferUtils.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/PrettyPrinter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ByteBufferArray.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ExceptionUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Sleeper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/CollectionUtils.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ReflectionUtils.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/DefaultEnvironmentEdge.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/HasThread.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/JenkinsHash.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/IncrementingEnvironmentEdge.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/test/RedundantKVGenerator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/test/LoadTestKVGenerator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/MD5Hash.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/IterableUtils.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Pair.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/DynamicClassLoader.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ByteRangeUtils.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/DrainBarrier.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ByteRange.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/PositionedByteRange.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Triple.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/EnvironmentEdge.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ClassLoaderBase.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/RetryCounter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/Strings.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/util/ArrayUtils.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/Chore.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/CellScannable.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/codec/KeyValueCodec.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/codec/Codec.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/codec/CellCodec.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/codec/CellCodecWithTags.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/codec/KeyValueCodecWithTags.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/codec/BaseDecoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/codec/CodecException.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/codec/BaseEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/BaseConfigurable.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawByte.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/FixedLengthWrapper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/TerminatedWrapper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawStringFixedLength.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedString.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawLong.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/Union2.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawDouble.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/StructBuilder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedFloat32.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedBlob.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawBytesFixedLength.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawFloat.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/DataType.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/Struct.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedInt64.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawInteger.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawString.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawBytesTerminated.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/Union3.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawStringTerminated.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedInt16.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedBytesBase.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawBytes.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedFloat64.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedInt32.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/PBType.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/package-info.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/Union4.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedBlobVar.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/RawShort.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedInt8.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/StructIterator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedNumeric.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/CellUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/VersionAnnotation.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/java/org/apache/hadoop/hbase/HBaseInterfaceAudience.java
+  AL    /home/hbase/hbase-0.98.8/hbase-common/src/main/resources/hbase-default.xml
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

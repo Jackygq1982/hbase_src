@@ -1,0 +1,69 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:38:27-05:00
+Notes: 1
+Binaries: 0
+Archives: 0
+Standards: 31
+
+Apache Licensed: 31
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  N     /home/hbase/hbase-0.98.8/hbase-protocol/README.txt
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/java/com/google/protobuf/HBaseZeroCopyByteString.java
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/java/org/apache/hadoop/hbase/util/ByteStringer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Filter.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/ErrorHandling.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/SecureBulkLoad.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Aggregate.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Master.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/ZooKeeper.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/MultiRowMutation.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Snapshot.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/MapReduce.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/ClusterStatus.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Tracing.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Cell.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/LoadBalancer.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Client.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/ClusterId.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/VisibilityLabels.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Admin.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/RowProcessor.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/AccessControl.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Authentication.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/RegionServerStatus.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/HBase.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/HFile.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/RPC.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Comparator.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/Encryption.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/WAL.proto
+  AL    /home/hbase/hbase-0.98.8/hbase-protocol/src/main/protobuf/FS.proto
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

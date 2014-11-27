@@ -1,0 +1,76 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:39:55-05:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 39
+
+Apache Licensed: 39
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactoryImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/regionserver/wal/TestMetricsWALSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/regionserver/TestMetricsRegionSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/rest/TestMetricsRESTSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/HadoopShimsImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/test/MetricsAssertHelperImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/test/java/org/apache/hadoop/hbase/master/TestMetricsMasterSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/thrift/MetricsThriftServerSourceFactoryImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/thrift/MetricsThriftServerSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionServerSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/wal/MetricsEditsReplaySourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/wal/MetricsWALSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionServerSourceFactoryImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/regionserver/MetricsRegionAggregateSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/mapreduce/JobUtil.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/rest/MetricsRESTSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/replication/regionserver/MetricsReplicationSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/ipc/MetricsHBaseServerSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/ipc/MetricsHBaseServerSourceFactoryImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/metrics/MBeanSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/metrics/BaseSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsSnapshotSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsMasterFilesystemSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsMasterSourceFactoryImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master/balancer/MetricsBalancerSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsMasterSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/hbase/master/MetricsAssignmentManagerSourceImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/lib/MetricMutableQuantiles.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/lib/DynamicMetricsRegistry.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/lib/MutableHistogram.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/lib/MetricsExecutorImpl.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/util/MetricSampleQuantiles.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/util/MetricQuantile.java
+  AL    /home/hbase/hbase-0.98.8/hbase-hadoop2-compat/src/main/java/org/apache/hadoop/metrics2/impl/JmxCacheBuster.java
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

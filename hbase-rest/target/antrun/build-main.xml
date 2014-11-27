@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <property location="/home/hbase/hbase-0.98.8/hbase-rest/target/hbase-webapps" name="build.webapps"/>
+  <property location="/home/hbase/hbase-0.98.8/hbase-rest/src/main/resources/hbase-webapps" name="src.webapps"/>
+  <property location="/home/hbase/hbase-0.98.8/hbase-rest/target/generated-sources" name="generated.sources"/>
+  <mkdir dir="${build.webapps}"/>
+  <copy todir="${build.webapps}">
+    <fileset dir="${src.webapps}">
+      <exclude name="**/*.jsp"/>
+      <exclude name="**/.*"/>
+      <exclude name="**/*~"/>
+    </fileset>
+  </copy>
+  <taskdef classname="org.apache.jasper.JspC" name="jspcompiler" classpathref="maven.compile.classpath"/>
+  <mkdir dir="${build.webapps}/rest/WEB-INF"/>
+  <jspcompiler uriroot="${src.webapps}/rest" package="org.apache.hadoop.hbase.generated.rest" webxml="${build.webapps}/rest/WEB-INF/web.xml" outputdir="${generated.sources}/java"/>
+</target>
+</project>

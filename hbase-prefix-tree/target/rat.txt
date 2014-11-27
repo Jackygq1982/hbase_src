@@ -1,0 +1,124 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-11-25T16:39:58-05:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 87
+
+Apache Licensed: 87
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/pom.xml
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/comparator/ByteArrayComparator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/number/RandomNumberUtils.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/number/NumberFormatter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/bytes/TestByteRange.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/vint/TestFIntTool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/vint/TestVIntTool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/util/vint/TestVLongTool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/keyvalue/TestKeyValueTool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/column/data/TestColumnDataSimple.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/column/data/TestColumnDataRandom.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/column/TestColumnData.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/column/TestColumnBuilder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/BaseTestRowData.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/TestPrefixTreeSearcher.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/TestRowEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataSearchWithPrefix.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataNub.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataRandomKeyValuesWithTags.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataDeeper.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataEmpty.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataTrivialWithTags.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataSearcherRowMiss.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataExerciseFInts.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataUrls.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataComplexQualifiers.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataSingleQualifier.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataMultiFamilies.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataNumberStrings.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataRandomKeyValues.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataUrlsExample.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataSimple.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataDifferentTimestamps.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataQualifierByteOrdering.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/data/TestRowDataTrivial.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/row/TestRowData.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp/data/TestTimestampDataRepeats.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp/data/TestTimestampDataBasic.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp/data/TestTimestampDataNumbers.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp/TestTimestampEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/timestamp/TestTimestampData.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/blockmeta/TestBlockMeta.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder/TestTokenizerData.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder/TestTokenizer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder/data/TestTokenizerDataEdgeCase.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder/data/TestTokenizerDataBasic.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/builder/TestTreeDepth.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/test/java/org/apache/hadoop/hbase/codec/prefixtree/PrefixTreeTestConstants.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/byterange/ByteRangeSet.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/byterange/impl/ByteRangeHashSet.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/byterange/impl/ByteRangeTreeSet.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/vint/UVLongTool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/vint/UFIntTool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/util/vint/UVIntTool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/PrefixTreeCodec.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/PrefixTreeBlockMeta.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/PrefixTreeSeeker.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/scanner/CellScannerPosition.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/scanner/ReversibleCellScanner.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/scanner/CellSearcher.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/PrefixTreeEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/column/ColumnNodeWriter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/column/ColumnSectionWriter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/row/RowSectionWriter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/row/RowNodeWriter.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/tokenize/Tokenizer.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/tokenize/TokenizerNode.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/tokenize/TokenDepthComparator.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/tokenize/TokenizerRowSearchPosition.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/tokenize/TokenizerRowSearchResult.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/ThreadLocalEncoderPool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/EncoderFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/other/CellTypeEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/other/ColumnNodeType.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/other/LongEncoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/encode/EncoderPool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/PrefixTreeArrayScanner.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/column/ColumnReader.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/column/ColumnNodeReader.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/ArraySearcherPool.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/row/RowNodeReader.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/PrefixTreeArraySearcher.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/timestamp/TimestampDecoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/timestamp/MvccVersionDecoder.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/DecoderFactory.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/PrefixTreeArrayReversibleScanner.java
+  AL    /home/hbase/hbase-0.98.8/hbase-prefix-tree/src/main/java/org/apache/hadoop/hbase/codec/prefixtree/decode/PrefixTreeCell.java
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 
